@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google and Microsoft 
 - 📫 We can connect through LinkedIn: https://www.linkedin.com/in/ijaiswalshivam
 [![Ijaiswalshivam's GitHub | Stats](https://stats.quine.sh/Ijaiswalshivam/github?theme=dark)](https://quine.sh)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <!---
 Ijaiswalshivam/Ijaiswalshivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
