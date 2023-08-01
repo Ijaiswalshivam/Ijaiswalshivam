@@ -3,7 +3,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=shrutigossain&color=0e75b6)
 
-- 🔭 I’m currently working as a **Microsoft Learn Student Ambassador**
+- 🔭 I’m currently working as **Microsoft Learn Student Ambassador**
 
 - 🌱 I’m currently learning **Web Development**
 
