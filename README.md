@@ -18,22 +18,6 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="_blank href="https://www.instagram.com/ijaiswalshivam/"<i class="fab fa-instagram" aria-hidden="true"></i></a>
-  
-<a
-                    target="_blank"
-                    href="https://www.linkedin.com/in/ijaiswalshivam/" 
-                    title="Linkedin (External Link)"
-                    rel="noopener noreferrer"
-                    ><i class="fab fa-linkedin" aria-hidden="true"></i
-                  ></a>
-</p>
-
-
-
 # Github Activity📊:
 
 <table>
