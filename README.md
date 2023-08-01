@@ -21,8 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ijaiswalshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivam Jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/ijaiswalshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shivam Jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ijaiswalshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivam Jaiswal" height="30" width="40" />
+<i class="fa fa-linkedin" aria-hidden="true"></i></a>
+  
+<a href="https://instagram.com/ijaiswalshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shivam Jaiswal" height="30" width="40" />
+<i class="fa fa-instagram" aria-hidden="true"></i></a>
 </p>
 
 
