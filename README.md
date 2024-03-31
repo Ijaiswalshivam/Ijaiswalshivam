@@ -3,7 +3,9 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ijaiswalshivam&color=0e75b6)
 
-https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif
+
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working as **Microsoft Learn Student Ambassador**
 
