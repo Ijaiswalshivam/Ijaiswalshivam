@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam!</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ijaiswalshivam&color=0e75b6)
-
-
-
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+![GitHub Views](https://komarev.com/ghpvc/?username=ijaiswalshivam&color=0e75b6) 
 
 - 🔭 I’m currently working as **Microsoft Learn Student Ambassador**
 
